@@ -6,7 +6,7 @@ STEP 1:  CREATE a PROJECT INTO YOUR IDE (MINE : SPRING TOOL SHOOT )
 STEP 2: GO TO FILE --> NEW--> SPRING STARTER PROJECT 
 
 
-STEP 3:![Uploading Screenshot 2024-04-12 191238.png…]()
+STEP 3:![download](https://github.com/aparnasinghrajawat/CURD_API_USING_REST/assets/135022173/fb729356-b559-4f8e-9612-327e81c89e8e)
 
 FILL THE NAME: **CURD_API**
         TYPE:  MAVEN 
