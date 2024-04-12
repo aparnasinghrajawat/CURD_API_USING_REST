@@ -5,7 +5,10 @@ STEP 1:  CREATE a PROJECT INTO YOUR IDE (MINE : SPRING TOOL SHOOT )
 
 STEP 2: GO TO FILE --> NEW--> SPRING STARTER PROJECT 
 
-STEP 3: FILL THE NAME: **CURD_API**
+
+STEP 3:![Uploading Screenshot 2024-04-12 191238.png…]()
+
+FILL THE NAME: **CURD_API**
         TYPE:  MAVEN 
         VERSION:  (latest java version in your IDE) 17
         PACKAGING:   **JAR**
